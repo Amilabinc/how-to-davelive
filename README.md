@@ -10,12 +10,13 @@ http://www.amirobo.tech/services/dabelive/
 事前にApp Storeからインストールしておいてください．
 
 事前にお教えいただいたメールアドレスに，Dabeliveのアプリテスト招待メールが届いているか確認してください．
-招待メール内の，「View in Testflight」をクリックし，リンク先にある招待コードをTestflightアプリに入力します．
-招待コードの入力後，テストアプリがインストールできます．
+招待メール内の，「View in Testflight」をクリックし，リンク先にある`Redeem code`をTestflightアプリに入力します．
+`Redeem code`の入力後，テストアプリがインストールできます．
 
 ![招待メール](./image/invite_mail.png)
+![Redeem_code取得](./image/get_redeem_code.png)
 
-![Redeem_code](./image/redeem_code.png)
+![Redeem_code入力](./image/input_redeem_code.png)
 ![Testflightインストール画面](./image/testflight.png)
 
 ## Dabeliveの画面
