@@ -13,11 +13,13 @@ http://www.amirobo.tech/services/dabelive/
 招待メール内の，「View in Testflight」をクリックし，リンク先にある`Redeem code`をTestflightアプリに入力します．
 `Redeem code`の入力後，テストアプリがインストールできます．
 
-![招待メール](./image/invite_mail.png)
-![Redeem_code取得](./image/get_redeem_code.png)
+|招待メール|Redeem code|
+|---|---|
+|<img src="./image/invite_mail.png" width="500px">|<img src="./image/get_redeem_code.png" width="300px">|
 
-![Redeem_code入力](./image/input_redeem_code.png)
-![Testflightインストール画面](./image/testflight.png)
+|Redeem code入力|Testflightでのインストール画面|
+|---|---|
+|![Redeem_code入力](./image/input_redeem_code.png)|![Testflightインストール画面](./image/testflight.png)|
 
 ## Dabeliveの画面
 ### チャンネル選択画面
@@ -25,7 +27,7 @@ http://www.amirobo.tech/services/dabelive/
 視聴したいテレビ番組の放送局を選択すると，後述するコメント発話画面へ遷移し，キャラクターがテレビ番組の内容に沿ったコメントを発話します．
 また，設定ボタンを押すと，設定画面へ遷移します．
 
-![チャンネル選択画面](./image/channel_detail.png)
+<img src="./image/channel_detail.png" width="500px">
 
 ### コメント発話画面
 コメント発話画面では，チャンネル選択画面で選択した放送局が現在放送しているテレビ番組についてのコメントを発話します．
@@ -34,7 +36,7 @@ http://www.amirobo.tech/services/dabelive/
 発話されたコメントに対して，ユーザは「いいね/うーん」の評価ボタンにて評価できます．
 また，評価の理由についても理由ボタンを押すことで回答できます．
 
-![コメント発話画面](./image/comment_detail.png)
+<img src="./image/comment_detail.png" width="500px">
 
 ### 設定画面
 設定画面では，フィルタリングとチャンネルについての設定が変更できます．
@@ -44,8 +46,7 @@ http://www.amirobo.tech/services/dabelive/
 
 チャンネル設定は，お住いの地域を設定しておくことで，その地域に対応した放送局をチャンネル選択画面に表示できます．
 
-![設定画面](./image/setting.png)
-
+<img src="./image/setting.png" width="400px">
 
 ## アプリテストの手順
 1, 2は初回時のみです．
@@ -57,7 +58,7 @@ Dabeliveを初めてインストールした場合，最初にメールアドレ
 このメールアドレスは，ワーカーのテスト成果の確認をする際に用いますので，必ず入力してください．
 メールアドレスは，チャンネル選択画面のユーザ情報編集ボタンから編集できます．
 
-![メールアドレス入力](./image/email.png)
+<img src="./image/email.png" width="400px">
 
 ### 2. チャンネル設定
 チャンネル選択画面の設定ボタンを押して，設定画面へ移動してください．
